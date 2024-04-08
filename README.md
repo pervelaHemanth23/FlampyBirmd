@@ -31,15 +31,15 @@ This game is a Parody of the smash hit iPhone game Flappy Bird.
 
 ### Screenshots
 
-![Title screen](https://github.com/pervelaHemanth/myUnityProjects/blob/flampy-birmd/ScreenShots/Main%20Menu.png)
+![Title screen](https://github.com/pervelaHemanth23/FlampyBirmd/blob/main/ScreenShots/Main%20Menu.png)
 
-![Options Screen](https://github.com/pervelaHemanth/myUnityProjects/blob/flampy-birmd/ScreenShots/Options%20Screen.png)
+![Options Screen](https://github.com/pervelaHemanth23/FlampyBirmd/blob/main/ScreenShots/Options%20Screen.png)
 
-![Game Screenshot](https://github.com/pervelaHemanth/myUnityProjects/blob/flampy-birmd/ScreenShots/Game.png)
+![Game Screenshot](https://github.com/pervelaHemanth23/FlampyBirmd/blob/main/ScreenShots/Game.png)
 
-![Game Over Screen](https://github.com/pervelaHemanth/myUnityProjects/blob/flampy-birmd/ScreenShots/Game%20Over%20Screen.png)
+![Game Over Screen](https://github.com/pervelaHemanth23/FlampyBirmd/blob/main/ScreenShots/Game%20Over%20Screen.png)
 
-![High Scores Screen](https://github.com/pervelaHemanth/myUnityProjects/blob/flampy-birmd/ScreenShots/High%20Scores%20Screen.png)
+![High Scores Screen](https://github.com/pervelaHemanth23/FlampyBirmd/blob/main/ScreenShots/High%20Scores%20Screen.png)
 
 # Flampy Birmd 2.0
 
@@ -53,7 +53,7 @@ If the arrow HITS the target, the pipe will spawn and you can go through it to k
 
 I have uploaded both the versions in GitHub 
 
-![Flampy Birmd 2.0](https://github.com/pervelaHemanth/myUnityProjects/blob/flampy-birmd/ScreenShots/Flampy%20Birmd%202.0.png)
+![Flampy Birmd 2.0](https://github.com/pervelaHemanth23/FlampyBirmd/blob/main/ScreenShots/Flampy%20Birmd%202.0.png)
 
 **The 2.0 Version is still a work in progress.** Things i will have to fix include but are not limited to:
 
