@@ -66,7 +66,7 @@ I have uploaded both the versions in GitHub
 
 I have started working on another UNITY 2D project. This time i am attempting to recreate a platformer inspired by Mario forever with the knowledge i have gained from this project.
 
-**A TINY ACHIEVEMENT**
+***A TINY ACHIEVEMENT***
 
 I submitted my project idea and a prototype of Flampy Birmd 2.0 for a game design competition conducted by my university. I was awarded the 1st prize and a cash reward of 1500-/ ;)
 
